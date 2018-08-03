@@ -34,3 +34,7 @@ pod 'WBGuideCover'
 ## License
 
 WBGuideCover is available under the MIT license. See the LICENSE file for more info.
+
+> 参考：</br>
+> 1、https://github.com/wbxiaowangzi/FunctionGuideController </br>
+> 2、https://blog.csdn.net/hero_wqb/article/details/80030055
