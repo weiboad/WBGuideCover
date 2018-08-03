@@ -1,0 +1,16 @@
+PODS:
+  - WBGuideCover (0.1.0)
+
+DEPENDENCIES:
+  - WBGuideCover (from `../`)
+
+EXTERNAL SOURCES:
+  WBGuideCover:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WBGuideCover: 3921e6a9942937529df9b648d50588d57e1c82cd
+
+PODFILE CHECKSUM: 0d1142238b5bd74db5030a00373808e9b2e54140
+
+COCOAPODS: 1.5.3

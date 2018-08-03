@@ -1,0 +1,6 @@
+framework module WBGuideCover {
+  umbrella header "WBGuideCover-umbrella.h"
+
+  export *
+  module * { export * }
+}
