@@ -32,8 +32,8 @@ TODO: Add long description of the pod here.
   s.requires_arc = true
   s.frameworks = "UIKit", "Foundation"
 
-  s.source_files = 'Pod/Classes/**/*.{h,m}'
-  s.resource = 'Pod/Classes/**/*.bundle'
+  s.source_files = 'Pod/Classes/*.{h,m}'
+  s.resource = 'Pod/Classes/*.bundle'
   
   # s.resource_bundles = {
   #   'WBGuideCover' => ['WBGuideCover/Assets/*.png']
