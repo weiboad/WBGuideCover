@@ -22,7 +22,7 @@ pod 'WBGuideCover'
 
 ## Author
 
-彭辉, penghui8@staff.weibo.com
+彭辉, penghui_only@163.com
 
 ## License
 
