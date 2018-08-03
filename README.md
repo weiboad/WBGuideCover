@@ -7,6 +7,8 @@
 
 ## Example
 
+![效果显示](https://github.com/huipengo/WBGuideCover/blob/master/guidecover.gif)
+
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
