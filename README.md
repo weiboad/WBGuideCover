@@ -20,9 +20,14 @@ it, simply add the following line to your Podfile:
 pod 'WBGuideCover'
 ```
 
+> [!] Unable to find a pod with name, author, summary, or description matching `WBGuideCover`
+
+    rm ~/Library/Caches/CocoaPods/search_index.json
+	pod search WBGuideCover
+
 ## Author
 
-彭辉, penghui8@staff.weibo.com
+彭辉, penghui_only@163.com
 
 ## License
 
